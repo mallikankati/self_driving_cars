@@ -1,4 +1,4 @@
-## Self driving cars
+## Self driving car related projects
 
 Created some of the projects on self driving cars 
 
