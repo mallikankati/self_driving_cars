@@ -10,4 +10,4 @@ Created some of the projects on self driving cars
 
 **4. Advanced lane line detection techniques**
 
-**5. Using CNN and other techniques detecting Vehicle on video stream** 
+**5. Using CNN and other techniques to detecting Vehicles on video stream** 
